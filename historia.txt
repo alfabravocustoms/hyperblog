@@ -10,4 +10,4 @@ utilizando git como herramienta de trazabilidad
 
 podriamos hacer maravillas.
 
-pero no tantas como aprendiendo de este curso
+o no, porque posiblemente cague el commit.

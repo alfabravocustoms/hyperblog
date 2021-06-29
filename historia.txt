@@ -1,5 +1,11 @@
-Esta es la historia de Arturo Baeza
+ggitgEsta es la historia de Arturo Baeza
 
 Arturo Baeza tiene 33 años y nació en Acapulco, viviendo todo el mundo
 
 Mañana nos enfocaremos en su vida laboral
+
+Como podriamos describir cambios en el curriculum vitae de alguien
+
+utilizando git como herramienta de trazabilidad
+
+podriamos hacer maravillas.

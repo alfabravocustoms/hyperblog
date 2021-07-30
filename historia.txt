@@ -16,9 +16,6 @@ Experimento 2
 
 master 1
 
-<<<<<<< HEAD
 master 2
-=======
->>>>>>> 19c7c32 (exp1)
 
 o no, porque posiblemente cague el commit.

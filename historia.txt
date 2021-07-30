@@ -10,8 +10,13 @@ utilizando git como herramienta de trazabilidad
 
 podriamos hacer maravillas.
 
+Experimento 1
+
 master 1
 
+<<<<<<< HEAD
 master 2
+=======
+>>>>>>> 19c7c32 (exp1)
 
 o no, porque posiblemente cague el commit.

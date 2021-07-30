@@ -10,4 +10,6 @@ utilizando git como herramienta de trazabilidad
 
 podriamos hacer maravillas.
 
+master 1
+
 o no, porque posiblemente cague el commit.
